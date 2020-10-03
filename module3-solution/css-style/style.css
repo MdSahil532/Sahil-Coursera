@@ -1,0 +1,86 @@
+
+      *{
+        box-sizing: border-box;
+      }
+      .navber-custum{
+
+        background-color: gray;
+      }
+      .navbar-nav{
+        text-align: center;
+      }
+
+      #section-1{
+        width: 90%;
+        margin: 15px auto 15px auto;
+        border: 2px solid black;
+        text-align: center;
+        padding: 10px;
+          background-color: gray;
+
+      }
+      #main-part{
+
+        margin-top: 40px;
+        margin-bottom: 40px;
+
+      }
+      #section-1  span{
+        padding: 10px;
+        font-size: 20px;
+        text-transform: capitalize;
+        font-weight: bold;
+
+       
+      }
+      #section-1  p{
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+
+      }
+      h1{
+        text-transform: uppercase;
+        font-weight: bold;
+        font-family: monospace;
+        margin-top:60px;
+
+      }
+      .navbar-brand{
+
+        font-weight: bold;
+        font-size:28px; 
+      }
+      .navbar-custum{
+        background-color:  gray;
+
+      }
+      
+      .nav-link{
+        font-size: 18px;
+        color: black ;
+
+      }
+       
+      
+      .navbar-nav hr{
+        width: 80%;
+      }
+
+    
+        #navbarNavAltMarkup{
+        
+        margin-top: 5px;
+        margin-bottom: 3px;
+
+         
+      }
+      .navbar-nav{
+        background-color: white;
+        border: 2px solid black;
+      }
+
+      
+      
+
